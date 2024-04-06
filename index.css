@@ -30,8 +30,9 @@ header{
     padding: 20px 100px;
 }
 
-h1{
+header p{
     font-family: amandaBlack;
+    font-size: xx-large;
     
 }
 
@@ -45,6 +46,30 @@ ul{
     
 
 }
+
+/* jumbotron */
+
+#jumbotron {
+    background-image: url(./images/bowling_field.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.jumbotron_titre {
+    background-color: rgba(0, 0, 0, 0.21) ;
+    text-align: center;
+    padding: 30px;
+    color: white;
+    border: white 3px solid;
+
+}
+
+
 
 
 
