@@ -69,6 +69,32 @@ ul{
 
 }
 
+/* nos Offres */
+
+#nos_offres{
+    text-align: center;
+}
+
+.offer_boxes{
+    background-color: beige;
+    display: flex;
+    justify-content: center; 
+}
+
+.box{
+    background-color: blueviolet;
+    margin: 5px;
+    width: 30%;
+
+}
+
+.image_offer img{
+    width: 120px;
+    
+}
+
+
+
 
 
 
